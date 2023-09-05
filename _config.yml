@@ -6,7 +6,23 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Graduated with distinction from UC Berkeley. 
   <br><br>
-  <a href="https://www.linkedin.com/in/gaurikapse/">View My LinkedIn Profile</a> 
+
+  <p>
+    View my 
+    <br>
+    <a href="https://www.linkedin.com/in/gaurikapse/">
+      <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue" />
+      <br>
+      LinkedIn Profile
+    </a> 
+    <br>
+    <a href="https://github.com/gaurikapse">
+      <img src="https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black" />
+      <br>
+      GitHub Profile
+    </a>
+  </p>
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
