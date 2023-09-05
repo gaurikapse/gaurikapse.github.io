@@ -8,10 +8,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
 
   <p>
-    <br>
-    <a href="https://www.linkedin.com/in/gaurikapse/"> <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue" />LinkedIn Profile</a> 
-    <br>
-    <a href="https://github.com/gaurikapse"> <img src="https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black" />GitHub Profile</a>
+    View my
+    <ul>
+      <li><a href="https://www.linkedin.com/in/gaurikapse/">LinkedIn Profile</a></li>
+      <li><a href="https://github.com/gaurikapse">GitHub Profile</a></li>
+    </ul>
   </p>
   
   
