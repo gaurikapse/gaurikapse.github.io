@@ -3,7 +3,7 @@
 
 I simulated a short-term epidemic spread in Python to assess the impact of mitigation strategies like social distancing and vaccinations. All output analysis was conducted in R.
 
-<a href="https://github.com/gaurikapse/Vaccination-and-Epidemic-Spread">
+<a href="https://github.com/gaurikapse/Vaccination-and-Epidemic-Spread" target="_blank" rel="noopener noreferrer">
   View Code on GitHub
   <img src="images/Epidemic_Simulation_Thumbnail.png?raw=true"/>
 </a>
@@ -28,8 +28,8 @@ I simulated a short-term epidemic spread in Python to assess the impact of mitig
 
 <p>
   Read 
-  <a href="https://blog.commutatus.com/building-an-nlp-powered-legal-text-summarizer-part-1-d114e24a8c5c">part 1</a> and 
-  <a href="https://blog.commutatus.com/building-an-nlp-powered-legal-text-summarizer-part-2-990ca8a11c8a">part 2</a>  
+  <a href="https://blog.commutatus.com/building-an-nlp-powered-legal-text-summarizer-part-1-d114e24a8c5c" target="_blank" rel="noopener noreferrer">part 1</a> and 
+  <a href="https://blog.commutatus.com/building-an-nlp-powered-legal-text-summarizer-part-2-990ca8a11c8a" target="_blank" rel="noopener noreferrer">part 2</a>  
   of a recap of our efforts on Medium*.
 </p>
 
@@ -51,7 +51,7 @@ I simulated a short-term epidemic spread in Python to assess the impact of mitig
 
 An attempt at replicating the results of the 2015 paper “Self-Organizing Feature Maps Identify Proteins Critical to Learning in a Mouse Model of Down Syndrome,” using a combination of non-linear dimensionality reduction and spectral clustering. The authors of the original paper have used self-organizing feature maps (SOM).
 
-<a href="https://github.com/gaurikapse/Protein-ID---Down-Syndrome-Mice-Learning">
+<a href="https://github.com/gaurikapse/Protein-ID---Down-Syndrome-Mice-Learning" target="_blank" rel="noopener noreferrer">
   View Code on GitHub
   <img src="images/Down_Syndrome_Mouse.png?raw=true"/>
 </a>
