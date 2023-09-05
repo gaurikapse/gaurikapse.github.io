@@ -8,19 +8,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
 
   <p>
-    View my 
     <br>
-    <a href="https://www.linkedin.com/in/gaurikapse/">
-      <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue" />
-      <br>
-      LinkedIn Profile
-    </a> 
+    <a href="https://www.linkedin.com/in/gaurikapse/"> <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue" />LinkedIn Profile</a> 
     <br>
-    <a href="https://github.com/gaurikapse">
-      <img src="https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black" />
-      <br>
-      GitHub Profile
-    </a>
+    <a href="https://github.com/gaurikapse"> <img src="https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black" />GitHub Profile</a>
   </p>
   
   
