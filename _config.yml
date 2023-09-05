@@ -10,8 +10,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p>
     View my
     <ul>
-      <li><a href="https://www.linkedin.com/in/gaurikapse/">LinkedIn Profile</a></li>
-      <li><a href="https://github.com/gaurikapse">GitHub Profile</a></li>
+      <li><a href="https://www.linkedin.com/in/gaurikapse/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a></li>
+      <li><a href="https://github.com/gaurikapse" target="_blank" rel="noopener noreferrer">GitHub Profile</a></li>
     </ul>
   </p>
   
