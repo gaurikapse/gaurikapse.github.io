@@ -31,9 +31,9 @@ I simulated a short-term epidemic spread in Python to assess the impact of mitig
   <a href="https://blog.commutatus.com/building-an-nlp-powered-legal-text-summarizer-part-1-d114e24a8c5c">part 1</a> and 
   <a href="https://blog.commutatus.com/building-an-nlp-powered-legal-text-summarizer-part-2-990ca8a11c8a">part 2</a>  
   of a recap of our efforts on Medium*.
-  
-  \* *Articles co-authored by me and my colleague, but Medium doesn't allow multiple authors.*
 </p>
+
+\* *Articles co-authored by me and my colleague, but Medium doesn't allow multiple authors.*
 
 <img src="images/huggingface.png" alt="The architecture diagram"/>
 
