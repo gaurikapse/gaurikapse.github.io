@@ -51,9 +51,9 @@ I simulated a short-term epidemic spread in Python to assess the impact of mitig
 
 An attempt at replicating the results of the 2015 paper “Self-Organizing Feature Maps Identify Proteins Critical to Learning in a Mouse Model of Down Syndrome,” using a combination of non-linear dimensionality reduction and spectral clustering. The authors of the original paper have used self-organizing feature maps (SOM).
 
-<a href="#">
+<a href="https://github.com/gaurikapse/Protein-ID---Down-Syndrome-Mice-Learning">
   View Code on GitHub
-  <img src="images/#?raw=true"/>
+  <img src="images/Down_Syndrome_Mouse.png?raw=true"/>
 </a>
 
 <p> 
