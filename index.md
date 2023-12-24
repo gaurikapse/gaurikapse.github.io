@@ -20,11 +20,29 @@ I simulated a short-term epidemic spread in Python to assess the impact of mitig
 </p>
 
 ---
+
+### A Chatbot to Answer Questions about Books
+
+I built a chatbot to answer questions about my most-referenced books using the LangChain framework in Python! The UI is built with gradio and is still a work-in-progress.
+
+<a href="https://github.com/gaurikapse/Book-Question-Answering/" target="_blank" rel="noopener noreferrer">
+View Code on GitHub
+  <img src="images/Book_QA_Bot_Thumbnail.png?raw=true"/>
+</a>
+
+<p> 
+  <img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python" /> 
+  <img src="https://img.shields.io/badge/OpenAI-white?logo=OpenAI&logoColor=black" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/DeepLake-white" alt="DeepLake" />
+  <img src="https://img.shields.io/badge/LangChain-white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Gradio-white" alt="Gradio" />
+  <img src="https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black" alt="GitHub" /> 
+</p>
+
 ### Building an NLP Powered Legal Text Summarizer
 <p>
   The Indian Central Government encourages ministries to place proposed legislations in the public domain for 30 days prior to making any decisions. During this period, anyone can provide feedback on the proposals. We worked with a non-profit, <a href="https://www.civis.vote/">Civis</a>, to leverage AI to summarize these proposals for the general public, and improve readability and access.
 </p>
-
 
 <p>
   Read 
