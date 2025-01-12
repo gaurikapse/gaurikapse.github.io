@@ -1,22 +1,17 @@
 title: Gauri Kapse # your name (or website title) here
 logo: "/images/portfolio_header.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analyst with 3 years of experience and a master's degree in Analytics from Georgia Institute of Technology. 
+  Data Analyst with 3 years of experience and a master's degree in Analytics from Georgia Institute of Technology. UC Berkeley alum.
   <br><br>
   I work within the Marketing Strategy, Planning and Insights team within the broader Marketing team at talabat—the Middle East's largest food delivery platform—to provide strategic recommendations on spend efficiency, marketing initiatives and product decisions to regional and local teams.
   <br><br>
-  Previously, I supported the operational needs of 13 SMEs in various industries across the EMEA by providing analytical insights and data-driven recommendations.
-  <br><br>
-  Graduated with distinction from UC Berkeley. 
+  Previously, at Commutatus, I supported the operational needs of 13 SMEs in various industries across the EMEA by providing analytical insights and data-driven recommendations.
   <br><br>
 
-  <p>
-    View my
-    <ul>
-      <li><a href="https://www.linkedin.com/in/gaurikapse/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a></li>
-      <li><a href="https://github.com/gaurikapse" target="_blank" rel="noopener noreferrer">GitHub Profile</a></li>
-    </ul>
-  </p>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/gaurikapse/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a></li>
+    <li><a href="https://github.com/gaurikapse" target="_blank" rel="noopener noreferrer">GitHub Profile</a></li>
+  </ul>
   
   
 remote_theme: pages-themes/minimal@v0.2.0
